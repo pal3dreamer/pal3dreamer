@@ -1,5 +1,5 @@
 ## Hey there 👋
-I am a first year computer science student from Delhi, I love using Unix Based systems. My interests include low level code, reverse engineering, netsec etc. 
+I am a first year computer science student from Delhi, I love using Unix Based systems. My interests include low level coding, reverse engineering, netsec etc. 
 
 Don't worry if my github looks a bit empty tho, I am sure it will be filled with a lot of fun projects in no time. 
 
