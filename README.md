@@ -1,7 +1,11 @@
-## Hey there 👋
-I am a first year computer science student from Delhi, I love using Unix Based systems.
+<h1 align="left">Hi, I'm PaleDreamer <img src=./wave.gif width="30" height="30"></h1>
 
 
+<h2>I'm an undergrad student studying computer science 👨‍💻</h2>
+
+Checkout my website [here](https://pal3dreamer.github.io/)
+
+Arch Btw :3 
 
 
 <!--
