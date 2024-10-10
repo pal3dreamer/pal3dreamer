@@ -1,9 +1,8 @@
-<h1 align="left">Hi, I'm PaleDreamer <img src=./wave.gif width="30" height="30"></h1>
+<h1 align="left">Hi, I'm PaleDreamer <img src=./wave.gif width="30" height="30"> <br>
+I'm an undergrad student studying computer science 👨‍💻
+</h1>
 
-
-<h2>I'm an undergrad student studying computer science 👨‍💻</h2>
-
-Checkout my blog [here](https://pal3dreamer.github.io/)
+ Checkout my blog [here](https://pal3dreamer.github.io/)
 ## 📊 Stats
 ![pal3dreamer's Stats](https://github-readme-stats.vercel.app/api?username=pal3dreamer&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
