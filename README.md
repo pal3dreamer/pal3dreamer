@@ -6,7 +6,6 @@
 Checkout my blog [here](https://pal3dreamer.github.io/)
 ## 📊 Stats
 ![pal3dreamer's Stats](https://github-readme-stats.vercel.app/api?username=pal3dreamer&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![pal3dreamer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pal3dreamer&theme=vue-dark&hide_border=true)
 
 # Arch Btw :3 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
