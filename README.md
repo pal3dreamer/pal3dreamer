@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm PaleDreamer <img src=./wave.gif width="30" height="30"> <br>
+<h1 align="left">Hi, I'm paledreamer <img src=./wave.gif width="30" height="30"> <br>
 I'm an undergrad student studying computer science 👨‍💻
 </h1>
 
