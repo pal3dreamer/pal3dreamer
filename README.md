@@ -3,10 +3,10 @@ I'm an undergrad student studying computer science 👨‍💻
 </h1>
 
  Checkout my blog [here](https://pal3dreamer.github.io/)
-## 📊 Stats
+<!-- ## 📊 Stats
 ![pal3dreamer's Stats](https://github-readme-stats.vercel.app/api?username=pal3dreamer&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-# Arch Btw :3 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 <!--
 **pale-dreamer/pale-dreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Arch Btw :3 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
