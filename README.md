@@ -2,7 +2,7 @@
 I'm an undergrad student studying computer science 👨‍💻
 </h1>
 
- Checkout my blog [here](https://pal3dreamer.github.io/)
+ Checkout my blog [here](https://paledreamer.me)
 <!-- ## 📊 Stats
 ![pal3dreamer's Stats](https://github-readme-stats.vercel.app/api?username=pal3dreamer&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
